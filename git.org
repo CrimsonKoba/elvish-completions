@@ -67,7 +67,7 @@ We first load a number of libraries, including =comp=, the Elvish completion fra
   use re
   use str
   use github.com/muesli/elvish-libs/git
-  use github.com/zzamboni/elvish-modules/util
+  use github.com/CrimsonKoba/elvish-modules/util
 #+end_src
 
 This is where the big completion-definition map will get progressively built.
